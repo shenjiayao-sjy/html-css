@@ -1,0 +1,178 @@
+
+body{
+    background-color: gainsboro;
+    margin: 0;
+}
+.header{
+    height:60px;
+    background-color: white;
+    margin-bottom: 50px;
+    border-bottom: solid 1px gray;
+    position: fixed;
+    width: 100%;
+}
+.headerc{
+    height: 60px;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+.headerlf{
+    height:30px;
+    width:160px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+.camera{
+    float: left;
+    height: 30px;
+    width: 30px;
+}
+.insword{
+    font-size:30px;
+    line-height: 30px;
+    height:30px;
+    width: 100px;
+    float:right;
+    border-left:solid 1px gainsboro;
+}
+.search{
+    background-color:gainsboro;
+    width: 160px;
+    height: 20px;
+    margin-top: 5px;;
+}
+.center{
+    width: 140px;
+    height: 30px;
+    margin-left: 200px;
+    margin-right: 50px;
+}
+.headergt{
+    width: 160px;
+    height: 30px;
+    margin-left:200px; 
+    margin-right: 5px;
+}
+.heart{
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.person1{
+    width:600px;
+    height:900px;
+    background-color: white;
+    margin-left: 300px;
+    display: inline-block;
+    margin-top: 120px;
+    border: solid 1px grey;
+}
+.top{
+    height: 60px;
+    width:100%;
+    background-color: white;
+}
+.photo{
+    width:50px;
+    height: 50px;
+    border-radius: 50px;
+    margin:10px;
+    float: left;
+}
+.name{
+    height: 50px;
+    width: 80px;
+    font-size: 20px;
+    line-height: 50px;
+    float: left;
+    margin: 10px;
+}
+.content1{
+    width: 600px;
+    height:700px;
+}
+.person2{
+    width:600px;
+    height:580px;
+    background-color: white;
+    margin-left: 300px;
+    display: inline-block;
+    margin-top: 50px;
+    border: solid 1px grey;
+}
+.content2{
+    width: 600px;
+    height:400px;
+}
+.right{
+    position:sticky;
+    top:60px;
+    background: gainsboro;
+    width: 250px;
+    height:900px;
+    right: 150px;
+    left:950px;
+    margin-top: 100px;
+}
+.information{
+    width: 250px;
+    height: 70px;
+    background-color:transparent;
+}
+.img{
+    width:60px;
+    height: 60px;
+    border-radius: 60px;
+    margin:10px;
+    float: left;
+}
+.snap{
+    width: 250px;
+    height:250px;
+    background-color: white;
+    border: solid 1px grey;
+    margin-top:20px;
+}
+.recom{
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border: solid 1px grey;
+    margin-top: 20px;
+}
+.name1{
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    float: left;
+    line-height: 10px;
+}
+.sign{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    float: left;
+}
+.sign2{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    float: right; 
+}
+.smaller{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    float: left;
+    margin-left: 5px;
+}
+.bar{
+    width: 600px;
+    height:15px;
+    margin-top:50px;
+
+}
