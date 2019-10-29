@@ -1,6 +1,6 @@
 
 body{
-    background-color: gainsboro;
+    background-color:rgba(246, 249, 252);
     margin: 0;
 }
 .header{
@@ -61,8 +61,8 @@ body{
 .heart{
     width: 30px;
     height: 30px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .person{
     width:600px;
@@ -102,7 +102,7 @@ body{
     height:600px;
 }
 .right{
-    background: gainsboro;
+    background: rgba(246, 249, 252);
     width: 250px;
     height:900px;
     display: inline-block;
@@ -143,15 +143,14 @@ body{
 .sign{
     width: 30px;
     height: 30px;
-    margin: 5px;
+    margin: 8px;
     float: left;
 }
 .sign2{
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     margin: 5px;
     float: right; 
-    margin-right:10px;
 }
 .smaller{
     width: 20px;
@@ -170,7 +169,7 @@ body{
     width: 950px;
     height: 2100px;
     margin: 0 auto;
-    background-color: gainsboro;
+    background-color: rgb(246, 249, 252);
     padding-top:120px;
 }
 .grey{
