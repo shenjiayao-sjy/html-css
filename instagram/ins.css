@@ -9,6 +9,7 @@ body{
     border-bottom: solid 1px gray;
     position: fixed;
     width: 100%;
+    z-index:1;
 }
 .headerc{
     height: 60px;
