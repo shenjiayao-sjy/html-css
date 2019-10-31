@@ -231,3 +231,49 @@ ul :hover{
     height:40px;
     margin: 0 auto;
 }
+.red-bg{
+    width: 200px;
+    height: 80px;
+    background-color: rgb(247, 120, 120);
+    text-align: center;
+    color: white;
+    margin: 10px;
+    line-height: 10px;
+    padding-top: 15px;
+    position: absolute;
+    bottom: 0;
+}
+.line{
+    width:900px;
+    height: 120px;
+    display: flex;
+    margin: 20px auto;
+}
+.spring{
+    margin: 0 auto;
+    width: 80px;
+    height: 40px;
+    display: none;
+    position: absolute;
+    top: 5px;
+    left: 70px;
+}
+.spring:hover{
+    display: block;
+    margin: 0 auto;
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    top: 5px;
+    left: 70px;
+}
+.red-bg:hover{
+    background-color: #F44336;
+    display: block;
+}
+.items{
+    width: 200px;
+    height: 150px;
+    margin: 0 auto;
+    position: relative;
+}
