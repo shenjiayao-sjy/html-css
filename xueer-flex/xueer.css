@@ -302,3 +302,7 @@ ul :hover{
     font-size: 15px;
     color:#C0C0C0;
 }
+.box{
+    width: 230px;
+    height: 115px;
+}
