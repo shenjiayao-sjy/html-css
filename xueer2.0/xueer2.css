@@ -92,8 +92,7 @@ a:hover{
     text-align: center;
     line-height: 35px;
     display: inline-block;
-    margin-left: 28px;
-    margin-top: 24px;
+    margin: 24px 0 0 30px;
     vertical-align: top;
 }
 .main{
@@ -322,4 +321,8 @@ ul :hover{
     color:#C0C0C0;
     display: inline-block;
     margin: 5px 5px 0 5px;
+}
+.box{
+    width: 230px;
+    height: 115px;
 }
