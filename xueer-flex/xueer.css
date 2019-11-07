@@ -177,7 +177,7 @@ ul :hover{
 .ranking{
     display: flex;
     flex-flow: row wrap;
-    width: 775px;
+    width: 800px;
     margin: 10px auto;
 }
 .box{
