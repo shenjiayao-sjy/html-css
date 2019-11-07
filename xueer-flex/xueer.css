@@ -288,13 +288,13 @@ ul :hover{
     align-items: center;
     margin: 0 auto;
     border-top: solid 1px #C8C8C8;
-    padding-top: 8px;;
+    padding-top: 8px;
+    justify-content: space-between;
 }
 .white{
     color: #C0C0C0;
     font-size: 15px;
     text-align: left;
-    margin-left: 10px;
 }
 .letter{
     letter-spacing: 5px;
