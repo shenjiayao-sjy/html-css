@@ -193,7 +193,7 @@ ul :hover{
     text-align: center;
 }
 .ranking{
-    width: 775px;
+    width: 800px;
     height: 170px;
     margin: 10px auto;
     font-size: 0;
@@ -264,7 +264,7 @@ ul :hover{
     bottom:0;
 }
 .line{
-    width:812px;
+    width:820px;
     height: 120px;
     margin: 20px auto;
 }
@@ -303,7 +303,7 @@ ul :hover{
     display: inline-block;
 }
 .footer-words{
-    width: 341px;
+    width: 346px;
     margin: 0 auto;
     border-top: solid 1px #C8C8C8;
 }
