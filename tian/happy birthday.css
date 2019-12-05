@@ -40,16 +40,17 @@ body{
     width: 120px;
     height: 120px;
     position: relative;
+    bottom: 0;
     animation: mymove 8s infinite;
     -moz-animation: mymove 8s infinite;
 }
 @keyframes mymove{
     from {left:0px;}
-    to {left:1350px;}
+    to {left:1000px;}
 }
 @-moz-keyframes mymove{
     from {left:0px;}
-    to {left:1350px;}
+    to {left:1000px;}
 }
 .main-top{
     height: 60px;
